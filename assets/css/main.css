@@ -615,6 +615,18 @@ a.back-to-top:hover, a.back-to-top:focus {
     top: 0px;
 }
 
+.navbar-brand .logo-dark {
+    display: none;
+}
+
+.top-nav-collapse .navbar-brand .logo-light {
+    display: none;
+}
+
+.top-nav-collapse .navbar-brand .logo-dark {
+    display: inline;
+}
+
 .top-nav-collapse .navbar-nav .nav-link {
     color: #212121 !important;
 }
